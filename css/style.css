@@ -32,3 +32,13 @@ select {
   padding: 1.5rem;
   border-radius: 15px;
 }
+
+.done {
+  background-color: #395169;
+}
+
+.done .anotation {
+  color: #fff;
+  text-decoration: line-through;
+  font-style: italic;
+}
